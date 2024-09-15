@@ -203,7 +203,7 @@ app.frame('/join', async (c) => {
         <Button.Link href="https://nouns.build/dao/base/0xe8af882f2f5c79580230710ac0e2344070099432?referral=0x83f2af0F0aC4412F118B31f7dd596309B25b34Dd">
           builderDAOToken Auction page
         </Button.Link>,
-        <Button.Link href="https://warpcast.com/~/compose?embeds%5B%5D=https%3A%2F%2Fhttps://builderdao-frames.pages.dev%2Fapi&text=build+something!+start+the+next+builder+dao+auction+from+the+feed+-+frame+by+%40beachmfer.eth">
+        <Button.Link href="https://warpcast.com/~/compose?embeds%5B%5D=https%3A%2F%2Fhttps://builderdao-frames.pages.dev%2Fapi&text=build+something!+start+the+next+BuilderDAOo+auction+from+the+feed+-+frame+by+%40beachmfer.eth">
           Share
         </Button.Link>,
       ],
@@ -249,7 +249,7 @@ app.frame('/join', async (c) => {
       <Button.Link href="https://nouns.build/dao/base/0xe8af882f2f5c79580230710ac0e2344070099432?referral=0x83f2af0F0aC4412F118B31f7dd596309B25b34Dd">
         BuilderDAOToken Auction page
       </Button.Link>,
-      <Button.Link href="https://warpcast.com/~/compose?embeds%5B%5D=https%3A%2F%2Fbuilder-frames.pages.dev%2Fapi&text=build+something!+start+or+bid+on+builder+dao+auctions+from+the+feed+-+frame+by+%40beachmfer.eth">
+      <Button.Link href="https://warpcast.com/~/compose?embeds%5B%5D=https%3A%2F%2Fbuilder-frames.pages.dev%2Fapi&text=build+something!+start+or+bid+on+BuilderDAO+auctions+from+the+feed+-+frame+by+%40beachmfer.eth">
         Share
       </Button.Link>,
     ],
